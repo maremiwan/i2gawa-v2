@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\i2gawa.Core.DataContract\i2gawa.Core.DataContract.csproj" />
+    <ProjectReference Include="..\i2gawa.Core.Model\i2gawa.Core.Model.csproj" />
+    <ProjectReference Include="..\i2gawa.Core.Service\i2gawa.Core.Service.csproj" />
+  </ItemGroup>
+
+</Project>

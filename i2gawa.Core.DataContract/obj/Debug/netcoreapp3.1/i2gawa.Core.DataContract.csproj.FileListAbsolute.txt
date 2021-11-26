@@ -1,0 +1,10 @@
+D:\Project\CodeProject\i2gawa-v2\i2gawa.Core.DataContract\bin\Debug\netcoreapp3.1\i2gawa.Core.DataContract.deps.json
+D:\Project\CodeProject\i2gawa-v2\i2gawa.Core.DataContract\bin\Debug\netcoreapp3.1\i2gawa.Core.DataContract.dll
+D:\Project\CodeProject\i2gawa-v2\i2gawa.Core.DataContract\bin\Debug\netcoreapp3.1\i2gawa.Core.DataContract.pdb
+D:\Project\CodeProject\i2gawa-v2\i2gawa.Core.DataContract\obj\Debug\netcoreapp3.1\i2gawa.Core.DataContract.csproj.AssemblyReference.cache
+D:\Project\CodeProject\i2gawa-v2\i2gawa.Core.DataContract\obj\Debug\netcoreapp3.1\i2gawa.Core.DataContract.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\CodeProject\i2gawa-v2\i2gawa.Core.DataContract\obj\Debug\netcoreapp3.1\i2gawa.Core.DataContract.AssemblyInfoInputs.cache
+D:\Project\CodeProject\i2gawa-v2\i2gawa.Core.DataContract\obj\Debug\netcoreapp3.1\i2gawa.Core.DataContract.AssemblyInfo.cs
+D:\Project\CodeProject\i2gawa-v2\i2gawa.Core.DataContract\obj\Debug\netcoreapp3.1\i2gawa.Core.DataContract.csproj.CoreCompileInputs.cache
+D:\Project\CodeProject\i2gawa-v2\i2gawa.Core.DataContract\obj\Debug\netcoreapp3.1\i2gawa.Core.DataContract.dll
+D:\Project\CodeProject\i2gawa-v2\i2gawa.Core.DataContract\obj\Debug\netcoreapp3.1\i2gawa.Core.DataContract.pdb

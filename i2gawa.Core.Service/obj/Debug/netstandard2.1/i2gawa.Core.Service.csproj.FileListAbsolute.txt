@@ -1,0 +1,10 @@
+D:\Project\CodeProject\i2gawa-v2\i2gawa.Core.Service\bin\Debug\netstandard2.1\i2gawa.Core.Service.deps.json
+D:\Project\CodeProject\i2gawa-v2\i2gawa.Core.Service\bin\Debug\netstandard2.1\i2gawa.Core.Service.dll
+D:\Project\CodeProject\i2gawa-v2\i2gawa.Core.Service\bin\Debug\netstandard2.1\i2gawa.Core.Service.pdb
+D:\Project\CodeProject\i2gawa-v2\i2gawa.Core.Service\obj\Debug\netstandard2.1\i2gawa.Core.Service.csproj.AssemblyReference.cache
+D:\Project\CodeProject\i2gawa-v2\i2gawa.Core.Service\obj\Debug\netstandard2.1\i2gawa.Core.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\CodeProject\i2gawa-v2\i2gawa.Core.Service\obj\Debug\netstandard2.1\i2gawa.Core.Service.AssemblyInfoInputs.cache
+D:\Project\CodeProject\i2gawa-v2\i2gawa.Core.Service\obj\Debug\netstandard2.1\i2gawa.Core.Service.AssemblyInfo.cs
+D:\Project\CodeProject\i2gawa-v2\i2gawa.Core.Service\obj\Debug\netstandard2.1\i2gawa.Core.Service.csproj.CoreCompileInputs.cache
+D:\Project\CodeProject\i2gawa-v2\i2gawa.Core.Service\obj\Debug\netstandard2.1\i2gawa.Core.Service.dll
+D:\Project\CodeProject\i2gawa-v2\i2gawa.Core.Service\obj\Debug\netstandard2.1\i2gawa.Core.Service.pdb
